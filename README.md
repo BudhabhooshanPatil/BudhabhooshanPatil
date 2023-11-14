@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m @bhooshan
 - 👀 I’m interested in Mobile Application development and release
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on flutter apps
+- 🌱 I’m currently learning node.js , react.js
+- 💞️ I’m looking to collaborate on flutter apps, react native 
 - 📫 How to reach me? twitter @bhooshan_patil 
